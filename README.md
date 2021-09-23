@@ -4,7 +4,7 @@ Resolução do case para vaga de Data Engineer
 ## Execução
 A resolução do teste se encontra em um formato notebook ***localizado no arquivo Multiplan - Script.ipynb.***
 
-As saídas de arquivos de cada exercicio podem ser localizada na seguinte ordem: 
+As saídas de arquivos de cada exercício podem ser localizada na seguinte ordem: 
 
 - formatar uma saída em arquivo físico do access.log com a data em formato UNIX timestamp %Y-%m-%d %H:%M:%S e o IP convertido em um hash MD5
   ***Localizada no arquivo: csvIpDate***
