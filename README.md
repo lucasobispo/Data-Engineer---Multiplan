@@ -1,4 +1,4 @@
-# Case Tecnico - Multiplan
+# Case Técnico - Multiplan
 Resolução do case para vaga de Data Engineer 
 
 ## Execução
